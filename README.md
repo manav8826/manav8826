@@ -80,44 +80,6 @@
 
 ---
 
-### 🏆 Featured Projects
-
-#### 🤖 **ChatBot Q&A with LangGraph** 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://langgraph-chatbot-manav.streamlit.app/)
-- Stateful multi-agent chatbot with persistent conversations
-- SQLite database checkpointer with multi-threading support
-- Custom tools integration & real-time debugging via LangSmith
-- **Tech:** LangGraph, Gemini, SQLite3, Streamlit, Multi-Agent
-
-#### 📚 **DocuMind AI - RAG-Powered Document QA**
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai-doc-checker.streamlit.app/)
-- LangChain-powered RAG pipeline for contextual PDF analysis
-- FAISS vector store for semantic document retrieval
-- Cross-document querying with vectorized embeddings
-- **Tech:** LangChain, FAISS, Groq Gemma-2-9B, Streamlit
-
-#### 🎓 **EduML Predictor - Student Performance ML**
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/manav8826/EduML_Predictor/tree/main/mlproject-main)
-- End-to-end ML pipeline with feature engineering & model optimization
-- Flask web app for real-time predictions
-- Deployed on AWS (EC2, Elastic Beanstalk) with Docker
-- **Tech:** XGBoost, scikit-learn, Flask, AWS, Docker
-
-#### 🔍 **LLM Evaluator Framework**
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/manav8826/LLM-RESPONSE-EVALUATE)
-- Automated LLM evaluation using LangChain & LangSmith
-- Custom metrics for correctness, latency, and accuracy
-- Comparative analysis of Gemini Pro vs Flash models
-- **Tech:** LangChain, LangSmith, Gemini APIs
-
-#### 🎤 **Speech Emotion Recognition (Research)**
-- HuBERT Transformer-based SER achieving 97% accuracy
-- Multilingual dataset processing & model comparison
-- CNN, CNN-LSTM, Wav2Vec2, and HuBERT architectures
-- **Tech:** HuBERT, Transformers, Wav2Vec2, Deep Learning
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -160,20 +122,6 @@ current_focus = {
 - 📜 [**Oracle Data Science Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C7551A84FD5EE8883F27C41386B4D4E0A67EEB56E5689C50E5A934F8C87B9633)
 - 📜 [**Oracle Generative AI Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=485732772E54FF843E744CA48DAD371C79C0CA7A220593716BEB5DF69447C994)
 - 📁 [**All Certifications**](https://drive.google.com/drive/folders/1oZgskn0R72XX5X5rapspKE6m4q-KcBdB?usp=drive_link)
-
----
-
-### 💼 Experience Highlights
-
-**🔬 Research Experience - Speech Emotion Recognition**
-- Implemented SER using HuBERT Transformers (97% accuracy)
-- Built end-to-end pipeline with Hugging Face & Wav2Vec2
-- Comparative analysis of deep learning architectures
-
-**🐯 Tiger Analytics - GenAI Team Intern**
-- Developed advanced RAG pipelines using LangChain & LLMs
-- Optimized retrieval with MMR & prompt engineering
-- Built custom GenAI tools improving chatbot efficiency
 
 ---
 
