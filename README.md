@@ -48,8 +48,9 @@
 <p align="left">
 <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
-<img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/115702675?s=200&v=4" alt="huggingface" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="langchain" width="40" height="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/>
 </p>
 
 **Specialized Skills:**
