@@ -48,7 +48,6 @@
 <p align="left">
 <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="langchain" width="40" height="40"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/>
 </p>
@@ -122,15 +121,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manav8826&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="manav8826" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manav8826&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="manav8826" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manav8826&theme=tokyonight" alt="manav8826" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manav8826&theme=tokyonight&hide_border=true" alt="manav8826" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav8826&show_icons=true&locale=en&theme=tokyonight" alt="manav8826" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manav8826&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="manav8826" />
 </p>
 
 ---
